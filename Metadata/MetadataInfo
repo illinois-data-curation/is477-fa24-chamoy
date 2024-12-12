@@ -1,0 +1,22 @@
+**General Information**
+Title: Gene Expression Profiles Across Multiple Cancer Types
+Creators: Kayla Moy & Faith Chow
+Publisher: Zenodo
+Publication Year: 2024
+Resource Type: Dataset
+Version: 1.0
+DOI: OURS
+
+**Keywords**
+Gene Expression
+Cancer Types
+Biomarkers
+Machine Learning
+Personalized Treatment
+**Description**
+This dataset comprises gene expression profiles across multiple cancer types, integrated with clinical cancer type labels. The aim is to identify unique expression patterns and biomarkers that can classify and predict cancer types with high accuracy, enhancing cancer diagnostics and personalized treatment strategies.
+
+**Rights**
+License: Creative Commons Attribution 4.0 International (CC BY 4.0) Creative Commons Public Domain Dedication
+Rights Holder: UCI Machine Learning Repository, HL7 International
+Access Rights: Open access

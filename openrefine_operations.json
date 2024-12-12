@@ -1,0 +1,23 @@
+[
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Class",
+    "oldColumnName": "Class",
+    "newColumnName": "class"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Replace empty values in Description column",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "description",
+    "expression": "value==null ? 'Unknown' : value",
+    "onError": "keep-original"
+  },
+  {
+    "op": "core/remove-duplicates",
+    "description": "Remove duplicate rows"
+  }
+]

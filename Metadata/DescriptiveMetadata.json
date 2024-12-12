@@ -1,0 +1,54 @@
+{
+    "identifier": {
+      "identifierType": "DOI",
+      "identifier": "10.1234/example.doi"
+    },
+    "creators": [
+      {
+        "name": "Researcher Name",
+        "affiliation": "Institution"
+      }
+    ],
+    "titles": [
+      {
+        "title": "Gene Expression Profiles Across Multiple Cancer Types"
+      }
+    ],
+    "publisher": "Institution",
+    "publicationYear": 2024,
+    "resourceType": {
+      "resourceTypeGeneral": "Dataset"
+    },
+    "version": "1.0",
+    "subjects": [
+      {
+        "subject": "Gene Expression"
+      },
+      {
+        "subject": "Cancer Types"
+      },
+      {
+        "subject": "Biomarkers"
+      },
+      {
+        "subject": "Machine Learning"
+      },
+      {
+        "subject": "Personalized Treatment"
+      }
+    ],
+    "rightsList": [
+      {
+        "rights": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "rightsUri": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "fundingReferences": [
+      {
+        "funderName": "Funding Agency",
+        "awardNumber": "Grant Number",
+        "awardTitle": "Grant Title"
+      }
+    ]
+  }
+  
